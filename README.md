@@ -1,0 +1,2 @@
+## Numerical Calculations Course
+This repository contains the python codes used to solve homework assignments due to numerical calculations course on second semester (spring) of year 1401, and also the python files and tutorials provided as the teaching assistant of this course on spring semester of 1403.
