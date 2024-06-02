@@ -1,0 +1,5 @@
+# Contents
+This repository contains some python codes that are used to implement various methods for finding real roots of linear and non-linear equations, as the main subject of chapter two in Numerical Calculations course. To collect this comprehensive series of codes within one file, all of them are also included in *overall.ipynb* which represents the **Jupyter notebook** of this tutorial. All of the recorded tutorials can be found at [this link](https://drive.google.com/drive/folders/1JklaZjFY9Dn4EgH-CyyHVA3kvPJ1dJe0?usp=sharing, "Google Drive"). This set of educational files is provided for the <u>Numerical Calculations</u> corse lectured by <u>Dr. Fahim</u> at *College of Engineering*, *University of Tehran*, spring 1403.
+
+# Contact
+Feel free to contact me using my [email](mohammadmontazeri313@gmail.com) or Telegram [ID](https://t.me/MohammadSaeed) if there is any question, problem, or regard on this matter.
